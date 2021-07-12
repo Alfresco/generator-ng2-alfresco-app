@@ -16,7 +16,7 @@
     "yeoman-generator": "^4.2.0"
   },
   "devDependencies": {
-    "@alfresco/adf-testing": "4.5.0-33045",
+    "@alfresco/adf-testing": "4.6.0-33060",
     "@alfresco/js-api": "4.5.0",
     "@types/jasmine": "^3.4.6",
     "commander": "^5.0.0",
